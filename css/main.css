@@ -1,0 +1,19 @@
+body {
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+img {
+    width: 100%;
+}
+
+.content {
+    column-count: 3;
+}
+
+.my-padding-right {
+    padding-right: 10px;
+}
